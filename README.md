@@ -1,5 +1,5 @@
 # Scraper de last.fm utilizando Selenium + Beautiful Soup
-## Esse projeto foi construído em Python, tendo como único propósito o de servir como objeto de estudo sobre webscraping.
+### Esse projeto foi construído em Python, tendo como único propósito o de servir como objeto de estudo sobre webscraping.
 
 ## Ferramentas utilizadas:
 - Python 3
