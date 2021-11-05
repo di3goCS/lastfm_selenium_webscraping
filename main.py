@@ -1,6 +1,6 @@
 import codecs
 import time
-import pandas as pd
+# import pandas as pd
 
 from bs4 import BeautifulSoup, BeautifulStoneSoup
 from selenium import webdriver
